@@ -9,8 +9,8 @@ let playerImg, enemyImg;
 
 function preload() {
     //local path
-    playerImg = loadImage("test\Assets\player\Pete.png");
-    enemyImg = loadImage("test\Assets\enemy\horse.png");
+    playerImg = loadImage("https://github.com/UoB-COMSM0166/2025-group-17/blob/Ted's-Work/Ted's_Local_work/Assets/player/Pete.png");
+    enemyImg = loadImage("https://github.com/UoB-COMSM0166/2025-group-17/blob/Ted's-Work/Ted's_Local_work/Assets/enemy/horse.png");
 }
 
 function setup() {
