@@ -90,7 +90,7 @@ Heuristic Evaluation
 | Kailin Fang | Tutorial Interface | Instruction could be more clear (like use picture to show). | Help and doccumentation | 1 | 2 | 1 | 1.33 |
 | Daisy Fan | Tutorial Interface | Can pop up instruction first then begin. The HP not very clear. | Help and doccumentation | 1 | 2 | 1 | 1.33 |
 | Brian | Tutorial Interface | Don't know how to win or play when just eneter the game. | Visibility | 1 | 4 | 1 | 2 |
-
+| Kaijie Xu | "Playng" Interface | Player identification | Recognition rather than recall. | 2 | 2 | 4 | 2.67 |
 
 - One quantitative evaluation (of your choice) 
 
